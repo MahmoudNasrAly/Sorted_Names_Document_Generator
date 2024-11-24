@@ -1,6 +1,6 @@
 # Sorted_Names_Document_Generator
 Sorted Names Document Generator 
-# Arabic Names Table Formatter
+# Arabic & English Names Table Formatter
 
 This project allows users to input Arabic names (2 or 3 words per name), sort them in ascending order, and generate a Word document (`.docx`) with the names in a formatted table. The table includes an ID column, 15 empty columns for spacing, and the names aligned to the right.
 
